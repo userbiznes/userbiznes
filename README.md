@@ -12,8 +12,10 @@
 
 <br/>
 
-I run two agencies — **Avara** and **Axio** — and build products on the side.<br/>
-Mostly iOS apps, sometimes business tools, occasionally scrapers that do things they probably shouldn't.
+I run two agencies and build products on the side.<br/>
+**Avara** — web design and digital presence for businesses.<br/>
+**Axio** — personal CRMs, cognitive assistants, AI concierges that answer your business calls.<br/><br/>
+When I'm not doing agency work, I'm shipping iOS apps and writing scrapers that do things they probably shouldn't.
 
 </div>
 
@@ -132,10 +134,6 @@ Connecting dog owners with local walkers. MapKit + Google Sign-In.
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=userbiznes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=userbiznes&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15" width="80%" />
 
 <br/><br/>
 
